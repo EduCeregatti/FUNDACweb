@@ -1,0 +1,23 @@
+<project>
+    <documents></documents>
+    <dmdesigns>
+        <dmdesign active>
+            <dmdesignskill skill="bs5.colors">
+                <dmcolor key="primary" color="rgb(244,188,20)"/>
+                <dmcolor key="secondary" color="rgb(36,131,107)"/>
+                <dmcolor key="info" color="rgb(244,220,124)"/>
+                <dmcolor key="success" color="#cd7ed7"/>
+                <dmcolor key="warning" color="rgb(68,60,36)"/>
+                <dmcolor key="danger" color="#782381"/>
+                <dmcolor key="white" color="white"/>
+                <dmcolor key="light" color="#f8f9fa"/>
+                <dmcolor key="dark" color="#212529"/>
+            </dmdesignskill>
+            <dmdesignskill skill="fonts" headings_family text_family></dmdesignskill>
+            <dmdesignskill skill="headings" h1_family="Montserrat" h4_family></dmdesignskill>
+            <dmdesignskill skill="background" image_for_colors="true" advanced="true" filter_blur="0" filter_brightness="100" filter_contrast="100" filter_grayscale="0" filter_hue-rotate="0" filter_invert="0" filter_opacity="100" filter_saturate="100" filter_sepia="0" image="images/AdobeColor-Purpura%20y%20oro.jpeg"></dmdesignskill>
+            <dmdesignskill skill="bootstrap"></dmdesignskill>
+        </dmdesign>
+    </dmdesigns>
+    <dmlocked bs5-colors-primary="true" bs5-colors-secondary="true" bs5-colors-info="true" bs5-colors-success="true" bs5-colors-warning="false" bs5-colors-danger="true" bs5-colors-white="true" bs5-colors-light="true" bs5-colors-dark="true"></dmlocked>
+</project>
