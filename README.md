@@ -1,2 +1,2 @@
 # FUNDACweb
-Archivos de la futura págian web de la fundación FUNDAC.
+Archivos de la futura página web de la fundación FUNDAC.
